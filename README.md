@@ -5,7 +5,9 @@
 output:
 
 
-![Screenshot 2024-07-25 123034](https://github.com/user-attachments/assets/63453402-4df5-4e1d-b065-b76c342b5c06)
+![Screenshot 2024-07-25 123034](https://github.com/user-attachments/assets/62d9c2b5-7571-4182-b7c9-d4f3f491a013)
 
 
-![Screenshot 2024-07-25 123052](https://github.com/user-attachments/assets/46d60c6d-303a-405c-90bd-1fc9f53bb231)
+
+![Screenshot 2024-07-25 123052](https://github.com/user-attachments/assets/2c7360b8-800f-4447-bea5-cfdc538a6a28)
+  
