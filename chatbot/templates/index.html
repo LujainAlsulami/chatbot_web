@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../static/style.css" />
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+/>
+  <title>Chatbot</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Chatbot</h1>
+    <form method="POST">
+      <input id="input" type="text" name="user_question" placeholder="Ask me">
+      <button type="submit"><i class="fa-solid fa-magnifying-glass"></i> submit</button>
+    </form>
+    <div class="chatbot-message">
+      <textarea rows="15" cols="70" readonly>{{ answer }}</textarea>
+    </div>
+  </div>
+</body>
+
+</html>
